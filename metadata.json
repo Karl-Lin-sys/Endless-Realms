@@ -1,0 +1,6 @@
+{
+  "name": "Endless Realms",
+  "description": "An infinite choose-your-own-adventure engine with a dynamic inventory, quest tracking, and real-time generated companion image artwork.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
